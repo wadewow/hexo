@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 小锅也有大晴天
+title: 小锅的大晴天
 subtitle:
-description:
-author: 
+description: 幸福就是爱我的和我爱的人都好好的......
+author: By Wade
 language: zh-Hans
 timezone:
 
@@ -71,3 +71,20 @@ deploy:
   type: git
   repo: git@github.com:wadewow/wadewow.github.io.git
   branch: master
+#Set head  
+avatar: http://od4phhdfp.bkt.clouddn.com/mingguo.png
+
+#Extensions
+Plugins:
+  - hexo-generator-feed
+  - hexo-generator-sitemap
+
+#Feed Atom
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
+#sitemap
+sitemap:
+  path: sitemap.xml
