@@ -1,9 +1,10 @@
 ---
-title: Hello World
+title: hexo + github = blogs
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+在老弟[Ceil Ni](http://www.cielni.com/)的大力支持下，完成了博客的搭建。自己天资愚笨上手比较慢，大家将就着看哈！
 
-## Quick Start
+## 前期猥琐发育（安装各种环境哈！）
+ 1. 
 
 ### Create a new post
 
