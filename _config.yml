@@ -4,11 +4,11 @@
 
 # Site
 title: 小锅的大晴天
-subtitle:
+subtitle: Sunny day we meet
 description: 幸福就是爱我的和我爱的人都好好的......
 author: By Wade
 language: zh-Hans
-timezone:
+timezone: Sunny day we meet
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -95,3 +95,15 @@ search:
   field: post
   format: html
   limit: 10000
+  
+# page counts
+index_genetator:
+  per_page: 5
+
+archive_generator:
+  per_page: 20
+  yearly: true
+  monthly: true
+
+tag_generator:
+  per_page: 10
